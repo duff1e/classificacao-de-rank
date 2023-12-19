@@ -1,0 +1,19 @@
+body {
+  margin: auto;
+  background-color: antiquewhite;
+}
+
+.box {
+  align-items: center;
+  justify-content: center;
+  width: 100vw;
+  min-height: 100vh;
+}
+
+.title {
+  border-bottom: 1px solid rgba(114, 114, 114, 0.5);
+  font-size: 2rem;
+  font-family: "Rubik Doodle Shadow", serif;
+  color: #443030;
+  text-align: center;
+}
